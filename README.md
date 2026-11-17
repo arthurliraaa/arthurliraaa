@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi, eu sou o Arthur Lira</h1>
 
 <p align="center">
-  <b>Estagiário em Desenvolvimento de Software e IA Aplicada</b><br>
+  <b>Analista de Atendimento e Automação</b><br>
   Python · SQL · APIs · Automação<br>
   📍 João Pessoa, Paraíba, Brasil
 </p>
